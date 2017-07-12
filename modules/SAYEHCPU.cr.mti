@@ -1,0 +1,171 @@
+{C:/Users/ali izadi/Desktop/memari/norooz/controller.vhd} {1 {vcom -work work -2002 -explicit -vopt {C:/Users/ali izadi/Desktop/memari/norooz/controller.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Controller
+-- Compiling architecture RTL of Controller
+
+} {} {}} {C:/Users/ali izadi/Desktop/memari/norooz/register_file.vhd} {1 {vcom -work work -2002 -explicit -vopt {C:/Users/ali izadi/Desktop/memari/norooz/register_file.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity RegisterFile
+-- Compiling architecture RTL of RegisterFile
+
+} {} {}} {C:/Users/ali izadi/Desktop/memari/norooz/main.vhd} {1 {vcom -work work -2002 -explicit -vopt {C:/Users/ali izadi/Desktop/memari/norooz/main.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Main
+-- Compiling architecture RTL of Main
+
+} {} {}} {C:/Users/ali izadi/Desktop/memari/norooz/data_path.vhd} {1 {vcom -work work -2002 -explicit -vopt {C:/Users/ali izadi/Desktop/memari/norooz/data_path.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity DataPath
+-- Compiling architecture RTL of DataPath
+
+} {} {}} {C:/Users/ali izadi/Desktop/memari/norooz/status_register.vhd} {1 {vcom -work work -2002 -explicit -vopt {C:/Users/ali izadi/Desktop/memari/norooz/status_register.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity StatusRegister
+-- Compiling architecture RTL of StatusRegister
+
+} {} {}} {C:/Users/ali izadi/Desktop/memari/norooz/memory.vhd} {1 {vcom -work work -2002 -explicit -vopt {C:/Users/ali izadi/Desktop/memari/norooz/memory.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity memory
+-- Compiling architecture behavioral of memory
+
+} {} {}} {C:/Users/ali izadi/Desktop/memari/norooz/arithmetic_unit.vhd} {1 {vcom -work work -2002 -explicit -vopt {C:/Users/ali izadi/Desktop/memari/norooz/arithmetic_unit.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Compiling entity ArithmeticUnit
+-- Compiling architecture RTL of ArithmeticUnit
+
+} {} {}} {C:/Users/ali izadi/Desktop/memari/norooz/sayeh.vhd} {1 {vcom -work work -2002 -explicit -vopt {C:/Users/ali izadi/Desktop/memari/norooz/sayeh.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Sayeh
+-- Compiling architecture RTL of Sayeh
+
+} {} {}} {C:/Users/ali izadi/Desktop/memari/norooz/addressing_unit.vhd} {1 {vcom -work work -2002 -explicit -vopt {C:/Users/ali izadi/Desktop/memari/norooz/addressing_unit.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity AddressUnit
+-- Compiling architecture DataFlow of AddressUnit
+
+} {} {}} {C:/Users/ali izadi/Desktop/memari/norooz/instruction_register.vhd} {1 {vcom -work work -2002 -explicit -vopt {C:/Users/ali izadi/Desktop/memari/norooz/instruction_register.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity InstructionRegister
+-- Compiling architecture RTL of InstructionRegister
+
+} {} {}} {C:/Users/ali izadi/Desktop/memari/norooz/port_manager.vhd} {1 {vcom -work work -2002 -explicit -vopt {C:/Users/ali izadi/Desktop/memari/norooz/port_manager.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity portManager
+-- Compiling architecture behavioral of portManager
+
+} {} {}} {C:/Users/ali izadi/Desktop/memari/norooz/program_counter.vhd} {1 {vcom -work work -2002 -explicit -vopt {C:/Users/ali izadi/Desktop/memari/norooz/program_counter.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity programCounter
+-- Compiling architecture RTL of programCounter
+
+} {} {}} {C:/Users/ali izadi/Desktop/memari/norooz/multiplier.vhd} {1 {vcom -work work -2002 -explicit -vopt {C:/Users/ali izadi/Desktop/memari/norooz/multiplier.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Compiling entity MultiPlier
+-- Compiling architecture Behavioral of MultiPlier
+
+} {} {}} {C:/Users/ali izadi/Desktop/memari/norooz/two's_complement.vhd} {1 {vcom -work work -2002 -explicit -vopt {C:/Users/ali izadi/Desktop/memari/norooz/two's_complement.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Compiling entity TwosComplement
+-- Compiling architecture RTL of TwosComplement
+
+} {} {}} {C:/Users/ali izadi/Desktop/memari/norooz/divider.vhd} {1 {vcom -work work -2002 -explicit -vopt {C:/Users/ali izadi/Desktop/memari/norooz/divider.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity Divider
+-- Compiling architecture Behavioral of Divider
+
+} {} {}} {C:/Users/ali izadi/Desktop/memari/norooz/window_pointer.vhd} {1 {vcom -work work -2002 -explicit -vopt {C:/Users/ali izadi/Desktop/memari/norooz/window_pointer.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity WindowPointer
+-- Compiling architecture RTL of WindowPointer
+
+} {} {}} {C:/Users/ali izadi/Desktop/memari/norooz/xor.vhd} {1 {vcom -work work -2002 -explicit -vopt {C:/Users/ali izadi/Desktop/memari/norooz/xor.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Xorr
+-- Compiling architecture RTL of Xorr
+
+} {} {}} {C:/Users/ali izadi/Desktop/memari/norooz/main_tb.vhd} {1 {vcom -work work -2002 -explicit -vopt {C:/Users/ali izadi/Desktop/memari/norooz/main_tb.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MainTb
+-- Compiling architecture testBench of MainTb
+
+} {} {}} {C:/Users/ali izadi/Desktop/memari/norooz/address_logic.vhd} {1 {vcom -work work -2002 -explicit -vopt {C:/Users/ali izadi/Desktop/memari/norooz/address_logic.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity addressLogic
+-- Compiling architecture DataFlow of addressLogic
+
+} {} {}}

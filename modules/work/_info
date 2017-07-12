@@ -1,0 +1,714 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\ali izadi\Desktop\memari\HW
+T_opt
+V@`2B:L2e?UTZ1Oh7<VzTO0
+04 4 3 work main rtl 1
+=19-1cb72ca20384-58f7b0d9-1d4-2f8c
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OL;O;10.1c;51
+Z1 dC:\Users\ali izadi\Desktop\memari\HW
+Eaddresslogic
+Z2 w1491836249
+Z3 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z4 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z5 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z6 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z7 dC:\Users\ali izadi\Desktop\memari\norooz
+Z8 8C:/Users/ali izadi/Desktop/memari/norooz/address_logic.vhd
+Z9 FC:/Users/ali izadi/Desktop/memari/norooz/address_logic.vhd
+l0
+L7
+VJM1JL54OE6Wh::kFoo1k50
+Z10 OL;C;10.1c;51
+32
+Z11 !s108 1492627665.521000
+Z12 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/memari/norooz/address_logic.vhd|
+Z13 !s107 C:/Users/ali izadi/Desktop/memari/norooz/address_logic.vhd|
+Z14 o-work work -2002 -explicit
+Z15 tExplicit 1
+!s100 a^lXn`hPc[ER^F4jY`Kd_0
+!i10b 1
+Adataflow
+R3
+R4
+R5
+R6
+DEx4 work 12 addresslogic 0 22 JM1JL54OE6Wh::kFoo1k50
+32
+l27
+L15
+VWih1A:h3iYgJZD<;3LMF30
+R10
+R11
+R12
+R13
+R14
+R15
+!s100 931QTf_7MEmzO?Ld[`Q8]2
+!i10b 1
+Eaddressunit
+Z16 w1492367488
+R5
+R6
+R7
+Z17 8C:/Users/ali izadi/Desktop/memari/norooz/addressing_unit.vhd
+Z18 FC:/Users/ali izadi/Desktop/memari/norooz/addressing_unit.vhd
+l0
+L4
+V>Y`b2m?W:EdCSjF^CKjTF2
+R10
+32
+Z19 !s108 1492627666.017000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/memari/norooz/addressing_unit.vhd|
+Z21 !s107 C:/Users/ali izadi/Desktop/memari/norooz/addressing_unit.vhd|
+R14
+R15
+!s100 g6`K8JAO<`iPSf=33YO`Z1
+!i10b 1
+Adataflow
+R5
+R6
+DEx4 work 11 addressunit 0 22 >Y`b2m?W:EdCSjF^CKjTF2
+32
+l33
+L13
+V4E2eRg]<L[z8D9^hnIQ5h2
+R10
+R19
+R20
+R21
+R14
+R15
+!s100 I^Vd^jGboJ]kSGzj<0on52
+!i10b 1
+Earithmeticunit
+Z22 w1492679960
+R3
+Z23 DPx4 ieee 16 std_logic_signed 0 22 E>OLoMaBGQ?hbGgOoNXM^1
+R5
+R6
+R7
+Z24 8C:/Users/ali izadi/Desktop/memari/norooz/arithmetic_unit.vhd
+Z25 FC:/Users/ali izadi/Desktop/memari/norooz/arithmetic_unit.vhd
+l0
+L6
+V0MmkZ32RThKh=5f4B<khW2
+R10
+32
+Z26 !s108 1492680049.823000
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/memari/norooz/arithmetic_unit.vhd|
+Z28 !s107 C:/Users/ali izadi/Desktop/memari/norooz/arithmetic_unit.vhd|
+R14
+R15
+!s100 a3DQT3HUN3OKjKcjjLg1d1
+!i10b 1
+Artl
+R3
+R23
+R5
+R6
+DEx4 work 14 arithmeticunit 0 22 0MmkZ32RThKh=5f4B<khW2
+32
+l38
+L16
+V?PmlaX?HOY81o7bj[J_<]0
+R10
+R26
+R27
+R28
+R14
+R15
+!s100 li6<G><[XIQAUiH`PQRoM1
+!i10b 1
+Econtroller
+Z29 w1492677196
+R5
+R6
+R7
+Z30 8C:/Users/ali izadi/Desktop/memari/norooz/controller.vhd
+Z31 FC:/Users/ali izadi/Desktop/memari/norooz/controller.vhd
+l0
+L4
+Ve=hCY8`d5fF<4`GhEe?GN2
+R10
+32
+Z32 !s108 1492677257.533000
+Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/memari/norooz/controller.vhd|
+Z34 !s107 C:/Users/ali izadi/Desktop/memari/norooz/controller.vhd|
+R14
+R15
+!s100 40kb<R;HlWKaLVeP`F_:50
+!i10b 1
+Artl
+R5
+R6
+DEx4 work 10 controller 0 22 e=hCY8`d5fF<4`GhEe?GN2
+32
+l71
+L22
+VW?UT2R9MmZ4LHBNIW=5nn3
+R10
+R32
+R33
+R34
+R14
+R15
+!s100 h_OlN]ol[m5E=XT=P0o>=1
+!i10b 1
+Edatapath
+Z35 w1492636566
+R5
+R6
+R7
+Z36 8C:/Users/ali izadi/Desktop/memari/norooz/data_path.vhd
+Z37 FC:/Users/ali izadi/Desktop/memari/norooz/data_path.vhd
+l0
+L4
+VU>n2_zzlnQV15?b9WG_L;2
+R10
+32
+Z38 !s108 1492636566.911000
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/memari/norooz/data_path.vhd|
+Z40 !s107 C:/Users/ali izadi/Desktop/memari/norooz/data_path.vhd|
+R14
+R15
+!s100 ?gz_TRBL<QH9YbHRVXO`V2
+!i10b 1
+Artl
+R5
+R6
+DEx4 work 8 datapath 0 22 U>n2_zzlnQV15?b9WG_L;2
+32
+l88
+L22
+Vh1fWAg05RNiokNKmmE`P[1
+R10
+R38
+R39
+R40
+R14
+R15
+!s100 hQd]PYG]S5M_E9J54_=^H3
+!i10b 1
+Edivider
+Z41 w1492687280
+Z42 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R3
+R4
+R5
+R6
+R7
+Z43 8C:/Users/ali izadi/Desktop/memari/norooz/divider.vhd
+Z44 FC:/Users/ali izadi/Desktop/memari/norooz/divider.vhd
+l0
+L8
+V>cg]X=fil>0[QV2faZ1mU2
+R10
+32
+Z45 !s108 1492687283.444000
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/memari/norooz/divider.vhd|
+Z47 !s107 C:/Users/ali izadi/Desktop/memari/norooz/divider.vhd|
+R14
+R15
+!s100 aJAlgbWF<@<m4LYI[n<mG0
+!i10b 1
+Abehavioral
+R42
+R3
+R4
+R5
+R6
+DEx4 work 7 divider 0 22 >cg]X=fil>0[QV2faZ1mU2
+32
+l18
+L15
+Vo`K>]>Pd;XE=I=>`fj6^Q1
+R10
+R45
+R46
+R47
+R14
+R15
+!s100 _SZIf612B[Im7k4k@aiGz1
+!i10b 1
+Einstructionregister
+Z48 w1492536825
+R5
+R6
+R7
+Z49 8C:/Users/ali izadi/Desktop/memari/norooz/instruction_register.vhd
+Z50 FC:/Users/ali izadi/Desktop/memari/norooz/instruction_register.vhd
+l0
+L4
+V6?STi4DJjRNB<D?J:`Khh0
+R10
+32
+Z51 !s108 1492627666.237000
+Z52 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/memari/norooz/instruction_register.vhd|
+Z53 !s107 C:/Users/ali izadi/Desktop/memari/norooz/instruction_register.vhd|
+R14
+R15
+!s100 oWDco4CmK21J6W>57`CoQ1
+!i10b 1
+Artl
+R5
+R6
+DEx4 work 19 instructionregister 0 22 6?STi4DJjRNB<D?J:`Khh0
+32
+l13
+L11
+Ve<HZJ]3UDGZS_N=mb:dKj1
+R10
+R51
+R52
+R53
+R14
+R15
+!s100 ;[EAVeMe512ofe?lQ:K8S1
+!i10b 1
+Emain
+Z54 w1492759386
+R5
+R6
+R7
+Z55 8C:/Users/ali izadi/Desktop/memari/norooz/main.vhd
+Z56 FC:/Users/ali izadi/Desktop/memari/norooz/main.vhd
+l0
+L4
+VWLK[XBmEDKDW97`MD4JJ@3
+R10
+32
+Z57 !s108 1492759633.223000
+Z58 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/memari/norooz/main.vhd|
+Z59 !s107 C:/Users/ali izadi/Desktop/memari/norooz/main.vhd|
+R14
+R15
+!s100 h`lITzHG:0]_D_6Va<O5=1
+!i10b 1
+Artl
+R5
+R6
+DEx4 work 4 main 0 22 WLK[XBmEDKDW97`MD4JJ@3
+32
+l51
+L10
+V6G4MmeW_?eChza74A^hd]2
+R10
+R57
+R58
+R59
+R14
+R15
+!s100 M_AUA=<NM=nRG@C>0gA`c0
+!i10b 1
+Emaintb
+Z60 w1492759814
+R5
+R6
+R7
+Z61 8C:/Users/ali izadi/Desktop/memari/norooz/main_tb.vhd
+Z62 FC:/Users/ali izadi/Desktop/memari/norooz/main_tb.vhd
+l0
+L4
+VlCL4V<H4nWfUz[KXTZ]K90
+R10
+32
+Z63 !s108 1492759821.708000
+Z64 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/memari/norooz/main_tb.vhd|
+Z65 !s107 C:/Users/ali izadi/Desktop/memari/norooz/main_tb.vhd|
+R14
+R15
+!s100 O1FBUObj^O]X^:`420[iA0
+!i10b 1
+Atestbench
+R5
+R6
+DEx4 work 6 maintb 0 22 lCL4V<H4nWfUz[KXTZ]K90
+32
+l19
+L7
+Vo^2[:h8;5<>`i=A=cjXl83
+R10
+R63
+R64
+R65
+R14
+R15
+!s100 >[_F=7fKzWb]]_6<=4_lH3
+!i10b 1
+Ememory
+Z66 w1492757492
+R42
+R5
+R6
+R7
+Z67 8C:/Users/ali izadi/Desktop/memari/norooz/memory.vhd
+Z68 FC:/Users/ali izadi/Desktop/memari/norooz/memory.vhd
+l0
+L5
+Vd4nDi^fj<JnA282TO_M:M1
+R10
+32
+Z69 !s108 1492757496.365000
+Z70 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/memari/norooz/memory.vhd|
+Z71 !s107 C:/Users/ali izadi/Desktop/memari/norooz/memory.vhd|
+R14
+R15
+!s100 jnBP>D7BRnIdTMcK^4YLL2
+!i10b 1
+Abehavioral
+R42
+R5
+R6
+DEx4 work 6 memory 0 22 d4nDi^fj<JnA282TO_M:M1
+32
+l16
+L14
+VEibkD?go;jZ`NOdETeW7G3
+R10
+R69
+R70
+R71
+R14
+R15
+!s100 z<H>zz7j7im8`f7^L0RB32
+!i10b 1
+Emultiplier
+Z72 w1492686978
+R3
+R23
+R5
+R6
+R7
+Z73 8C:/Users/ali izadi/Desktop/memari/norooz/multiplier.vhd
+Z74 FC:/Users/ali izadi/Desktop/memari/norooz/multiplier.vhd
+l0
+L6
+VG3iLBDZ:[bMN=51B@T;;02
+R10
+32
+Z75 !s108 1492686980.595000
+Z76 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/memari/norooz/multiplier.vhd|
+Z77 !s107 C:/Users/ali izadi/Desktop/memari/norooz/multiplier.vhd|
+R14
+R15
+!s100 h`384a0dDlM56nAm075NZ1
+!i10b 1
+Abehavioral
+R3
+R23
+R5
+R6
+DEx4 work 10 multiplier 0 22 G3iLBDZ:[bMN=51B@T;;02
+l15
+L13
+V;c4VbQO@N3Um;XMekXT1^1
+R10
+32
+R75
+R76
+R77
+R14
+R15
+!s100 `^kdkREAhT=K4ZHi2o89X1
+!i10b 1
+Eportmanager
+Z78 w1492758502
+R42
+R5
+R6
+R7
+Z79 8C:/Users/ali izadi/Desktop/memari/norooz/port_manager.vhd
+Z80 FC:/Users/ali izadi/Desktop/memari/norooz/port_manager.vhd
+l0
+L5
+V39U>AEooQXO=5X^SAie@Z2
+R10
+32
+Z81 !s108 1492758505.729000
+Z82 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/memari/norooz/port_manager.vhd|
+Z83 !s107 C:/Users/ali izadi/Desktop/memari/norooz/port_manager.vhd|
+R14
+R15
+!s100 XcL4OCK`m];[iRlWmP9`20
+!i10b 1
+Abehavioral
+R42
+R5
+R6
+DEx4 work 11 portmanager 0 22 39U>AEooQXO=5X^SAie@Z2
+32
+l16
+L14
+VKCCAFBJ0Zc`OW8]cfP8HC3
+R10
+R81
+R82
+R83
+R14
+R15
+!s100 f:E@AYWN`[9lBZ3;jQNAB1
+!i10b 1
+Eprogramcounter
+Z84 w1492536845
+R5
+R6
+R7
+Z85 8C:/Users/ali izadi/Desktop/memari/norooz/program_counter.vhd
+Z86 FC:/Users/ali izadi/Desktop/memari/norooz/program_counter.vhd
+l0
+L4
+VAXVfIK>XIA56@996]>RU`1
+R10
+32
+Z87 !s108 1492627665.730000
+Z88 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/memari/norooz/program_counter.vhd|
+Z89 !s107 C:/Users/ali izadi/Desktop/memari/norooz/program_counter.vhd|
+R14
+R15
+!s100 U16[d8cnFPPOdo=a<6Ug[0
+!i10b 1
+Artl
+R5
+R6
+DEx4 work 14 programcounter 0 22 AXVfIK>XIA56@996]>RU`1
+32
+l12
+L11
+V4d1CUD:E]PQe0W^mSOKkO1
+R10
+R87
+R88
+R89
+R14
+R15
+!s100 dRO<mXVhJb2efjF[SK9A93
+!i10b 1
+Eregisterfile
+Z90 w1492536849
+R42
+R3
+R4
+R5
+R6
+R7
+Z91 8C:/Users/ali izadi/Desktop/memari/norooz/register_file.vhd
+Z92 FC:/Users/ali izadi/Desktop/memari/norooz/register_file.vhd
+l0
+L6
+ViL^?M?3iUFbAbQ6a<Iafg3
+R10
+32
+Z93 !s108 1492627666.482000
+Z94 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/memari/norooz/register_file.vhd|
+Z95 !s107 C:/Users/ali izadi/Desktop/memari/norooz/register_file.vhd|
+R14
+R15
+!s100 LNFhbNJ8cWB;Q5bi9C9Y:0
+!i10b 1
+Artl
+R42
+R3
+R4
+R5
+R6
+DEx4 work 12 registerfile 0 22 iL^?M?3iUFbAbQ6a<Iafg3
+32
+l28
+L15
+V]Wki`<c_COTjHYkX9Rk9>1
+R10
+R93
+R94
+R95
+R14
+R15
+!s100 @KZ;;VI[>l;ZX5je]6BVd3
+!i10b 1
+Esayeh
+Z96 w1492627659
+R5
+R6
+R7
+Z97 8C:/Users/ali izadi/Desktop/memari/norooz/sayeh.vhd
+Z98 FC:/Users/ali izadi/Desktop/memari/norooz/sayeh.vhd
+l0
+L4
+Vd2=h;WY]l=Q@5OT4X^ON[1
+R10
+32
+Z99 !s108 1492627668.039000
+Z100 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/memari/norooz/sayeh.vhd|
+Z101 !s107 C:/Users/ali izadi/Desktop/memari/norooz/sayeh.vhd|
+R14
+R15
+!s100 CL0OZ_z^;Lee3U;@FPPz51
+!i10b 1
+Artl
+R5
+R6
+DEx4 work 5 sayeh 0 22 d2=h;WY]l=Q@5OT4X^ON[1
+32
+l66
+L13
+VUh634NfEJDl<3H;MRBWjR1
+R10
+R99
+R100
+R101
+R14
+R15
+!s100 OWzoWz1j@ogOS3G_XX5Ph2
+!i10b 1
+Estatusregister
+Z102 w1492536858
+R5
+R6
+R7
+Z103 8C:/Users/ali izadi/Desktop/memari/norooz/status_register.vhd
+Z104 FC:/Users/ali izadi/Desktop/memari/norooz/status_register.vhd
+l0
+L4
+VZ<3^5@dTh?kf9T^]:Y08_2
+R10
+32
+Z105 !s108 1492627667.004000
+Z106 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/memari/norooz/status_register.vhd|
+Z107 !s107 C:/Users/ali izadi/Desktop/memari/norooz/status_register.vhd|
+R14
+R15
+!s100 Goca=X8f[^Le:>V_XB53K1
+!i10b 1
+Artl
+R5
+R6
+DEx4 work 14 statusregister 0 22 Z<3^5@dTh?kf9T^]:Y08_2
+32
+l14
+L12
+VN]TdG]=nUo^:DL^1DV=RI1
+R10
+R105
+R106
+R107
+R14
+R15
+!s100 Y7DB3oJ5z_2o5@;TH45Rc2
+!i10b 1
+Etwoscomplement
+Z108 w1492689562
+R3
+R23
+R5
+R6
+R7
+Z109 8C:/Users/ali izadi/Desktop/memari/norooz/two's_complement.vhd
+Z110 FC:/Users/ali izadi/Desktop/memari/norooz/two's_complement.vhd
+l0
+L6
+V;XfzSaBoR_NcC:3EXk8WE1
+R10
+32
+Z111 !s108 1492689564.843000
+Z112 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/memari/norooz/two's_complement.vhd|
+Z113 !s107 C:/Users/ali izadi/Desktop/memari/norooz/two's_complement.vhd|
+R14
+R15
+!s100 ]J4RZ41ECAR3Y]dW69:A63
+!i10b 1
+Artl
+R3
+R23
+R5
+R6
+DEx4 work 14 twoscomplement 0 22 ;XfzSaBoR_NcC:3EXk8WE1
+32
+l14
+L12
+VLJJJVQi>^PKYR[BCGHS4e1
+R10
+R111
+R112
+R113
+R14
+R15
+!s100 RaXTk_PFLa7IiCRZW:f>?0
+!i10b 1
+Ewindowpointer
+Z114 w1492536964
+R3
+R4
+R5
+R6
+R7
+Z115 8C:/Users/ali izadi/Desktop/memari/norooz/window_pointer.vhd
+Z116 FC:/Users/ali izadi/Desktop/memari/norooz/window_pointer.vhd
+l0
+L5
+V=0iLFYY8Qj_Z_O[^:eLnb1
+R10
+32
+Z117 !s108 1492627666.731000
+Z118 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/memari/norooz/window_pointer.vhd|
+Z119 !s107 C:/Users/ali izadi/Desktop/memari/norooz/window_pointer.vhd|
+R14
+R15
+!s100 n^c;=dC=E2ZPJLniRYnj32
+!i10b 1
+Artl
+R3
+R4
+R5
+R6
+DEx4 work 13 windowpointer 0 22 =0iLFYY8Qj_Z_O[^:eLnb1
+32
+l16
+L12
+ViI0joW]>`18Ei:9mI<f3c0
+R10
+R117
+R118
+R119
+R14
+R15
+!s100 W0l=08X<MgELPgl_`mU>i0
+!i10b 1
+Exorr
+Z120 w1492688818
+R5
+R6
+R7
+Z121 8C:/Users/ali izadi/Desktop/memari/norooz/xor.vhd
+Z122 FC:/Users/ali izadi/Desktop/memari/norooz/xor.vhd
+l0
+L4
+VD6c^LGbBL_zT54j]n3PE23
+R10
+32
+Z123 !s108 1492688822.486000
+Z124 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ali izadi/Desktop/memari/norooz/xor.vhd|
+Z125 !s107 C:/Users/ali izadi/Desktop/memari/norooz/xor.vhd|
+R14
+R15
+!s100 0IL^Azh@5YOgOKC;dZRdL3
+!i10b 1
+Artl
+R5
+R6
+DEx4 work 4 xorr 0 22 D6c^LGbBL_zT54j]n3PE23
+32
+l13
+L11
+VZIc^F7UN5imAQ`U5V``^j2
+R10
+R123
+R124
+R125
+R14
+R15
+!s100 G=^MBdWZ5RZLSlDoSC`bX3
+!i10b 1
